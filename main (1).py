@@ -1,6 +1,6 @@
 #Main part
 
-ch=int(input("Enter your choice\n 1.Adition 2. Subtraction 3.Multiply 4.Division)
+ch=int(input("Enter your choice\n 1.Adition 2. Subtraction 3.Multiply 4.Division))
 if(ch==1):
      add()
 
